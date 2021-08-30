@@ -135,9 +135,9 @@ Após cadastrar e ativar as marcas, categorias e produtos através do Admin, a p
 
 ### Contato
 
-![Imagem do elemento](https://github.com/cabarros3/gama-academy/blob/main/contactv.gif)
+![](https://github.com/cabarros3/gama-academy/blob/main/contactv.gif)
 
-A área de contato do site abre um modal para cadastro de leads de clientes que se conecta a API AWS. Foi utilizado um Componente VTEX com um formulário de cadastro contendo os campos nome, email, telefone, e um registro automático de prospect para possivelmente ser transformado em cliente caso o usuário finalize alguma compra na loja. Mais detalhes [aqui](). 
+A área de contato do site abre um modal para cadastro de leads de clientes que se conecta a API AWS. Foi utilizado um Componente VTEX com um formulário de cadastro contendo os campos nome, email, telefone, e um registro automático de prospect para possivelmente ser transformado em cliente caso o usuário finalize alguma compra na loja. Mais detalhes [aqui](https://github.com/guilhermanosilva/form-lead-component-vtex). 
 
 ## Sobre o grupo :sparkles:
 
@@ -145,7 +145,7 @@ Ao todo o nosso grupo é composto de 10 integrantes. Nos dividimos em back-end e
 
 Camilla        | Alberto        | Lucas Ramos    |Jefferson       | 
 -------------- | -------------- | -------------- | -------------- |
-<a href="https://www.linkedin.com/in/camillabarros/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>| <a href="https://www.linkedin.com/in/albertohfernandes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>| <a href="https://www.linkedin.com/in/lucas-ramos-gmp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>| 
+<a href="https://www.linkedin.com/in/camillabarros/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>| <a href="https://www.linkedin.com/in/albertohfernandes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>| <a href="https://www.linkedin.com/in/lucas-ramos-gmp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>| <a href="https://www.linkedin.com/in/jeffersonklamasmarzani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>| 
 
 Lucas Vihuchi  | Laura          | Guilhermano    | Evelyn         | 
 -------------- | -------------- | -------------- | -------------- |
@@ -154,6 +154,4 @@ Lucas Vihuchi  | Laura          | Guilhermano    | Evelyn         |
 Breno          | Victor         |
 -------------- | -------------- |  
 <a href="https://www.linkedin.com/in/breno-brito-cruz-477a83213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>|
-
-
 
