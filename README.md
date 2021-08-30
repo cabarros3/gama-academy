@@ -7,7 +7,9 @@ O contexto completo do desafio está [aqui](https://drive.google.com/file/d/1cjX
 
 ## Preview
 
-![](https://github.com/cabarros3/gama-academy/blob/main/header.png)
+Você pode conferir aqui nesse [link](https://lucasvihuchi--hiringcoders202106.myvtex.com/)
+
+![](https://github.com/cabarros3/gama-academy/blob/main/home2.png)
 
 ## Estruturação da loja
 
@@ -132,7 +134,7 @@ O footer responsivo com os blocos "footer-layout.desktop" e "footer-layout.mobil
 <a id="ancora5"></a>
 ### Home
 
-![Imagem do elemento](https://github.com/cabarros3/gama-academy/blob/main/home.png)
+![Imagem do elemento](https://github.com/cabarros3/gama-academy/blob/main/home2.png)
 
 O store.home, baseado na aparência do site original, tem como objetivo trazer de mensagem inicial a presença global da corebiz. Desta forma, há uma imagem de fundo com o mapa de presença, mais um "stack-layout" estilizado com blocos "rich-text" para o título, subtítulo e estatísticas.
 
