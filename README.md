@@ -1,3 +1,4 @@
+<a name="topo"></a>
 # Desafio Final - Grupo 6 - CoreBiz
 
 Este é o desafio final do Grupo 6 do Hiring Coders #2. O desafio consistem em desenvolver uma loja Vtex com consumo de API's com o front-end baseado na temática da parceira e patrocinadora corebiz.
@@ -80,64 +81,89 @@ As página "Home" e "Sobre" seguem os mesmos padrões da corebiz com as informa�
 - [Checkout Custom](https://apps.vtex.com/vtex-checkout-ui-custom/p)
 - [Customer Credit](https://apps.vtex.com/vtex-customer-credit/p)
 
+<a name="ancora"></a>
 ## Componentes
 
 Os componentes da loja elaborados para o desafio foram:
 
-* [Api Vtex IO]()
-* [Api AWS]()
-* [Header]()
-* [Footer]()
-* [Home]()
-* [Sobre]()
-* [Produtos]()
-* [Contato]()
+* [Api Vtex IO](#ancora1)
+* [Api AWS](#ancora2)
+* [Header](#ancora3)
+* [Footer](#ancora4)
+* [Home](#ancora5)
+* [Sobre](#ancora6)
+* [Produtos](#ancora7)
+* [Contato](#ancora8)
 
 Abaixo você pode conferir como realizamos a construção de cada um destes compenentes.
 
+<a id="ancora1"></a>
 ### API VTEX IO
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum nisi vel metus ultricies congue. Praesent tempus dignissim placerat. Morbi viverra, velit vitae imperdiet facilisis, tellus eros sodales felis, id aliquet eros ipsum eu nisl. Curabitur ac ante vitae lectus cursus porttitor id vel enim. Nullam placerat ac augue ut auctor. Fusce mattis sit amet nisi at ultricies. Nunc iaculis finibus lectus, sit amet mollis lectus suscipit in. Integer volutpat tellus at congue congue.
 
+:top:[Ver componentes](#ancora)
+
+<a id="ancora2"></a>
 ### API AWS
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum nisi vel metus ultricies congue. Praesent tempus dignissim placerat. Morbi viverra, velit vitae imperdiet facilisis, tellus eros sodales felis, id aliquet eros ipsum eu nisl. Curabitur ac ante vitae lectus cursus porttitor id vel enim. Nullam placerat ac augue ut auctor. Fusce mattis sit amet nisi at ultricies. Nunc iaculis finibus lectus, sit amet mollis lectus suscipit in. Integer volutpat tellus at congue congue.
 
+:top:[Ver componentes](#ancora)
+
+<a id="ancora3"></a>
 ### Header
 
 ![](https://github.com/cabarros3/gama-academy/blob/main/headerv.gif)
 
 O Header responsivo foi desenvolvido através dos blocos "header-layout.desktop" e "header-layout.mobile". O layout desktop conta com o logo, um menu de navegação e um minicart, organizados em um "flex-layout". Já o layout mobile, mantém o logo e minicart, e a navegação é condensada em um menu gaveta.
 
+:top:[Ver componentes](#ancora)
+
+<a id="ancora4"></a>
 ### Footer
 
 ![](https://github.com/cabarros3/gama-academy/blob/main/footer.png)
 
 O footer responsivo com os blocos "footer-layout.desktop" e "footer-layout.mobile" também utiliza o flex layout para organizar o logo, os endereços da corebiz em cada país, as redes sociais, o copyright e um botão que leva ao topo da página.
 
+:top:[Ver componentes](#ancora)
+
+<a id="ancora5"></a>
 ### Home
 
 ![Imagem do elemento](https://images.unsplash.com/photo-1522252234503-e356532cafd5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=625&q=80)
 
 O store.home, baseado na aparência do site original, tem como objetivo trazer de mensagem inicial a presença global da corebiz. Desta forma, há uma imagem de fundo com o mapa de presença, mais um "stack-layout" estilizado com blocos "rich-text" para o título, subtítulo e estatísticas.
 
+:top:[Ver componentes](#ancora)
+
+<a id="ancora6"></a>
 ### Sobre
 
 ![](https://github.com/cabarros3/gama-academy/blob/main/sobre.png)
 
 A página about-us traz a missão e valores que são a base da corebiz. Foi utilizado "flex-layout" para compor o design das imagens com os textos e foi inserido um "tablayout" estilizado para descrever o framework de transformação digital da empresa, separando os seguimentos canal de vendas, taxa de conversão, marketing de performance e projetos ominichannel.
 
+:top:[Ver componentes](#ancora)
+
+<a id="ancora7"></a>
 ### Produtos
 
 ![](https://github.com/cabarros3/gama-academy/blob/main/produtos.png)
 
 Após cadastrar e ativar as marcas, categorias e produtos através do Admin, a página de produtos foi criada através de um bloco customizado "store.custom#products" com um "search-result-layout", filtrando apenas os óculos e estabelecendo um máximo de 8 produtos por página. Possui a opção de visualização em grid ou lista e customização dos filtros de busca.
 
+:top:[Ver componentes](#ancora)
+
+<a id="ancora8"></a>
 ### Contato
 
 ![](https://github.com/cabarros3/gama-academy/blob/main/contactv.gif)
 
 A área de contato do site abre um modal para cadastro de leads de clientes que se conecta a API AWS. Foi utilizado um Componente VTEX com um formulário de cadastro contendo os campos nome, email, telefone, e um registro automático de prospect para possivelmente ser transformado em cliente caso o usuário finalize alguma compra na loja. Mais detalhes [aqui](https://github.com/guilhermanosilva/form-lead-component-vtex). 
+
+:top:[Ver componentes](#ancora)
 
 ## Sobre o grupo :sparkles:
 
@@ -155,3 +181,6 @@ Breno          | Victor         |
 -------------- | -------------- |  
 <a href="https://www.linkedin.com/in/breno-brito-cruz-477a83213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>|
 
+
+
+:top:[Topo](#topo)
