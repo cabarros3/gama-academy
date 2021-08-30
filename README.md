@@ -102,14 +102,14 @@ Abaixo você pode conferir como realizamos a construção de cada um destes comp
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum nisi vel metus ultricies congue. Praesent tempus dignissim placerat. Morbi viverra, velit vitae imperdiet facilisis, tellus eros sodales felis, id aliquet eros ipsum eu nisl. Curabitur ac ante vitae lectus cursus porttitor id vel enim. Nullam placerat ac augue ut auctor. Fusce mattis sit amet nisi at ultricies. Nunc iaculis finibus lectus, sit amet mollis lectus suscipit in. Integer volutpat tellus at congue congue.
 
-:top:[Ver componentes](#ancora)
+:arrow_up:[Ver componentes](#ancora)
 
 <a id="ancora2"></a>
 ### API AWS
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum nisi vel metus ultricies congue. Praesent tempus dignissim placerat. Morbi viverra, velit vitae imperdiet facilisis, tellus eros sodales felis, id aliquet eros ipsum eu nisl. Curabitur ac ante vitae lectus cursus porttitor id vel enim. Nullam placerat ac augue ut auctor. Fusce mattis sit amet nisi at ultricies. Nunc iaculis finibus lectus, sit amet mollis lectus suscipit in. Integer volutpat tellus at congue congue.
 
-:top:[Ver componentes](#ancora)
+:arrow_up:[Ver componentes](#ancora)
 
 <a id="ancora3"></a>
 ### Header
@@ -118,7 +118,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum nisi 
 
 O Header responsivo foi desenvolvido através dos blocos "header-layout.desktop" e "header-layout.mobile". O layout desktop conta com o logo, um menu de navegação e um minicart, organizados em um "flex-layout". Já o layout mobile, mantém o logo e minicart, e a navegação é condensada em um menu gaveta.
 
-:top:[Ver componentes](#ancora)
+:arrow_up:[Ver componentes](#ancora)
 
 <a id="ancora4"></a>
 ### Footer
@@ -127,7 +127,7 @@ O Header responsivo foi desenvolvido através dos blocos "header-layout.desktop"
 
 O footer responsivo com os blocos "footer-layout.desktop" e "footer-layout.mobile" também utiliza o flex layout para organizar o logo, os endereços da corebiz em cada país, as redes sociais, o copyright e um botão que leva ao topo da página.
 
-:top:[Ver componentes](#ancora)
+:arrow_up:[Ver componentes](#ancora)
 
 <a id="ancora5"></a>
 ### Home
@@ -136,7 +136,7 @@ O footer responsivo com os blocos "footer-layout.desktop" e "footer-layout.mobil
 
 O store.home, baseado na aparência do site original, tem como objetivo trazer de mensagem inicial a presença global da corebiz. Desta forma, há uma imagem de fundo com o mapa de presença, mais um "stack-layout" estilizado com blocos "rich-text" para o título, subtítulo e estatísticas.
 
-:top:[Ver componentes](#ancora)
+:arrow_up:[Ver componentes](#ancora)
 
 <a id="ancora6"></a>
 ### Sobre
@@ -145,7 +145,7 @@ O store.home, baseado na aparência do site original, tem como objetivo trazer d
 
 A página about-us traz a missão e valores que são a base da corebiz. Foi utilizado "flex-layout" para compor o design das imagens com os textos e foi inserido um "tablayout" estilizado para descrever o framework de transformação digital da empresa, separando os seguimentos canal de vendas, taxa de conversão, marketing de performance e projetos ominichannel.
 
-:top:[Ver componentes](#ancora)
+:arrow_up:[Ver componentes](#ancora)
 
 <a id="ancora7"></a>
 ### Produtos
@@ -154,7 +154,7 @@ A página about-us traz a missão e valores que são a base da corebiz. Foi util
 
 Após cadastrar e ativar as marcas, categorias e produtos através do Admin, a página de produtos foi criada através de um bloco customizado "store.custom#products" com um "search-result-layout", filtrando apenas os óculos e estabelecendo um máximo de 8 produtos por página. Possui a opção de visualização em grid ou lista e customização dos filtros de busca.
 
-:top:[Ver componentes](#ancora)
+:arrow_up:[Ver componentes](#ancora)
 
 <a id="ancora8"></a>
 ### Contato
@@ -163,7 +163,7 @@ Após cadastrar e ativar as marcas, categorias e produtos através do Admin, a p
 
 A área de contato do site abre um modal para cadastro de leads de clientes que se conecta a API AWS. Foi utilizado um Componente VTEX com um formulário de cadastro contendo os campos nome, email, telefone, e um registro automático de prospect para possivelmente ser transformado em cliente caso o usuário finalize alguma compra na loja. Mais detalhes [aqui](https://github.com/guilhermanosilva/form-lead-component-vtex). 
 
-:top:[Ver componentes](#ancora)
+:arrow_up:[Ver componentes](#ancora)
 
 ## Sobre o grupo :sparkles:
 
