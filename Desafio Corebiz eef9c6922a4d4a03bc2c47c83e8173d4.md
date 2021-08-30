@@ -20,18 +20,15 @@ A loja foi pensada para ser composta por 5 páginas:
 
 As página "Home" e "Sobre" seguem os mesmos padrões da corebiz com as informações e caracteríticas principais da marca. As páginas "produtos" e "contato" são as que, conforme solicitado no desafio, entregam o consumo da API vtex e AWS, nelas podemos verirficar os produtos, fazer a compra desses produtos e observar a lista de clientes. O link do header denominado "blog" redireciona para um link externo mantido pela corebiz.
 
-## **Componentes**
+<a name="ancora"></a>
+## Componentes
+- [Header](#ancora1)
+- [Footer](#ancora2)
+- [Produtos](#ancora3)
+- [Contato](#ancora4)
 
 Os componentes da loja elaborados para o desafio foram:
 
-- [Api Vtex IO](https://github.com/cabarros3/gama-academy/blob/main)
-- [Api AWS](https://github.com/cabarros3/gama-academy/blob/main)
-- [Header](https://github.com/cabarros3/gama-academy/blob/main)
-- [Footer](https://github.com/cabarros3/gama-academy/blob/main)
-- [Home](https://github.com/cabarros3/gama-academy/blob/main)
-- [Sobre](https://github.com/cabarros3/gama-academy/blob/main)
-- [Produtos](https://github.com/cabarros3/gama-academy/blob/main)
-- [Contato](https://github.com/cabarros3/gama-academy/blob/main)
 
 Abaixo você pode conferir como realizamos a construção de cada um destes compenentes.
 
@@ -43,11 +40,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum nisi 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum nisi vel metus ultricies congue. Praesent tempus dignissim placerat. Morbi viverra, velit vitae imperdiet facilisis, tellus eros sodales felis, id aliquet eros ipsum eu nisl. Curabitur ac ante vitae lectus cursus porttitor id vel enim. Nullam placerat ac augue ut auctor. Fusce mattis sit amet nisi at ultricies. Nunc iaculis finibus lectus, sit amet mollis lectus suscipit in. Integer volutpat tellus at congue congue.
 
+<a id="ancora1"></a>
 ### **Header**
+> Lorem
 
 ![https://github.com/cabarros3/gama-academy/raw/main/headerv.gif](https://github.com/cabarros3/gama-academy/raw/main/headerv.gif)
 
 O Header responsivo foi desenvolvido através dos blocos "header-layout.desktop" e "header-layout.mobile". O layout desktop conta com o logo, um menu de navegação e um minicart, organizados em um "flex-layout". Já o layout mobile, mantém o logo e minicart, e a navegação é condensada em um menu gaveta.
+
+:top:[Topo](#ancora)
 
 ### **Footer**
 
