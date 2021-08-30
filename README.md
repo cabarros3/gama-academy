@@ -132,7 +132,7 @@ O footer responsivo com os blocos "footer-layout.desktop" e "footer-layout.mobil
 <a id="ancora5"></a>
 ### Home
 
-![Imagem do elemento](https://images.unsplash.com/photo-1522252234503-e356532cafd5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=625&q=80)
+![Imagem do elemento](https://github.com/cabarros3/gama-academy/blob/main/home.png)
 
 O store.home, baseado na aparência do site original, tem como objetivo trazer de mensagem inicial a presença global da corebiz. Desta forma, há uma imagem de fundo com o mapa de presença, mais um "stack-layout" estilizado com blocos "rich-text" para o título, subtítulo e estatísticas.
 
