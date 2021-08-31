@@ -85,7 +85,7 @@ As página "Home" e "Sobre" seguem os mesmos padrões da corebiz com as informa�
 
 ## API
 
-Você encontra a documentação sobre a API Vtex IO [aqui]()
+Você encontra a documentação sobre a API Vtex IO [aqui](https://github.com/cabarros3/gama-academy/blob/main/READMEAPI.md)
 
 <a name="ancora"></a>
 ## Componentes
