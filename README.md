@@ -83,6 +83,10 @@ As página "Home" e "Sobre" seguem os mesmos padrões da corebiz com as informa�
 - [Checkout Custom](https://apps.vtex.com/vtex-checkout-ui-custom/p)
 - [Customer Credit](https://apps.vtex.com/vtex-customer-credit/p)
 
+## API
+
+Você encontra a documentação sobre a API Vtex IO [aqui]()
+
 <a name="ancora"></a>
 ## Componentes
 
