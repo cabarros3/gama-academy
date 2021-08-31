@@ -1,4 +1,13 @@
-# Api de Resposta VtexIO - GRUPO 6
+<a name="ancora"></a>
+# API's - GRUPO 6
+
+Usamos duas API's para compor o projeto
+
+* [API Vtex IO](#ancora1)
+* [API AWS](#ancora2)
+
+<a id="ancora1"></a>
+## Api de Resposta VtexIO
 
 Um aplicativo de referência implementando um serviço VTEX IO com manipuladores de rotas HTTP.
 
@@ -6,7 +15,7 @@ Um aplicativo de referência implementando um serviço VTEX IO com manipuladores
 
  - Comece e acompanhe os comentários e importações :) node/index.ts
 
-## Definindo rotas em service.json
+### efinindo rotas em service.json
 
 ```jsx
 {
@@ -90,7 +99,13 @@ import {OMS} from '@vtex/clients'
 
 ```
 
+<a id="ancora2"></a>
+## API AWS
+
+
 
 ## Sobre o grupo 6 ✨
 
 Você pode conferir a nossa documentação completa sobre a estrutura da loja e front-end [aqui](https://github.com/LucasVihuchi/desafio-final-corebiz-hiring-coders#readme).
+
+🔝 [Topo](#ancora)
