@@ -88,8 +88,6 @@ As página "Home" e "Sobre" seguem os mesmos padrões da corebiz com as informa�
 
 Os componentes da loja elaborados para o desafio foram:
 
-* [Api Vtex IO](#ancora1)
-* [Api AWS](#ancora2)
 * [Header](#ancora3)
 * [Footer](#ancora4)
 * [Home](#ancora5)
@@ -98,20 +96,6 @@ Os componentes da loja elaborados para o desafio foram:
 * [Contato](#ancora8)
 
 Abaixo você pode conferir como realizamos a construção de cada um destes compenentes.
-
-<a id="ancora1"></a>
-### API VTEX IO
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum nisi vel metus ultricies congue. Praesent tempus dignissim placerat. Morbi viverra, velit vitae imperdiet facilisis, tellus eros sodales felis, id aliquet eros ipsum eu nisl. Curabitur ac ante vitae lectus cursus porttitor id vel enim. Nullam placerat ac augue ut auctor. Fusce mattis sit amet nisi at ultricies. Nunc iaculis finibus lectus, sit amet mollis lectus suscipit in. Integer volutpat tellus at congue congue.
-
-:arrow_up:[Ver componentes](#ancora)
-
-<a id="ancora2"></a>
-### API AWS
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum nisi vel metus ultricies congue. Praesent tempus dignissim placerat. Morbi viverra, velit vitae imperdiet facilisis, tellus eros sodales felis, id aliquet eros ipsum eu nisl. Curabitur ac ante vitae lectus cursus porttitor id vel enim. Nullam placerat ac augue ut auctor. Fusce mattis sit amet nisi at ultricies. Nunc iaculis finibus lectus, sit amet mollis lectus suscipit in. Integer volutpat tellus at congue congue.
-
-:arrow_up:[Ver componentes](#ancora)
 
 <a id="ancora3"></a>
 ### Header
